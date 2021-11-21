@@ -38,6 +38,7 @@ func main() {
 	// gobyex.RecoverFn()
 	// gobyex.StringFormatting()
 	// gobyex.Regex()
-	gobyex.JSONFn()
+	// gobyex.JSONFn()
+	gobyex.TimeFn()
 
 }
