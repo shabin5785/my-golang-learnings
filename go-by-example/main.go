@@ -39,6 +39,9 @@ func main() {
 	// gobyex.StringFormatting()
 	// gobyex.Regex()
 	// gobyex.JSONFn()
-	gobyex.TimeFn()
+	// gobyex.TimeFn()
+	// gobyex.Encode()
+	// gobyex.FilesFn()
+	gobyex.FilesProcessFn()
 
 }
