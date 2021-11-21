@@ -26,6 +26,15 @@ func main() {
 	// gobyex.CloseChannel()
 	// gobyex.RangeChannel()
 	// gobyex.Timer()
-	gobyex.Ticker()
+	// gobyex.Ticker()
+	// gobyex.WorkerPool()
+	// gobyex.WaitGroup()
+	// gobyex.RateLimiting()
+	// gobyex.AtomicCounter()
+	// gobyex.MutexFn()
+	// gobyex.StateFul()
+	// gobyex.Sorting()
+	// gobyex.DeferFn()
+	gobyex.RecoverFn()
 
 }
