@@ -35,6 +35,9 @@ func main() {
 	// gobyex.StateFul()
 	// gobyex.Sorting()
 	// gobyex.DeferFn()
-	gobyex.RecoverFn()
+	// gobyex.RecoverFn()
+	// gobyex.StringFormatting()
+	// gobyex.Regex()
+	gobyex.JSONFn()
 
 }
